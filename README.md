@@ -18,4 +18,4 @@
 
 
 
-[![Idiomas mais usados](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebonfati)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebonfati&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
